@@ -9,21 +9,7 @@ Let’s build something amazing together!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/) [![Portfolio Webiste](https://img.shields.io/badge/-website-FE7A16?logo=stack-overflow&logoColor=white)](https://asadejaz.store/)
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![WordPress](https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)  
-![WooCommerce](https://img.shields.io/badge/woocommerce-%235F259F.svg?style=for-the-badge&logo=woocommerce&logoColor=white)  
-![Shopify](https://img.shields.io/badge/shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)  
-![Shopify Plus](https://img.shields.io/badge/shopify%20plus-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)  
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)  
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![Elementor](https://img.shields.io/badge/Elementor-%23D83B77.svg?style=for-the-badge&logo=elementor&logoColor=white) ![Divi](https://img.shields.io/badge/Divi-%236C4B99.svg?style=for-the-badge&logo=divi&logoColor=white) ![WPBakery](https://img.shields.io/badge/WPBakery-%23007CFF.svg?style=for-the-badge&logo=wordpress&logoColor=white) ![Beaver Builder](https://img.shields.io/badge/Beaver%20Builder-%23E86D1F.svg?style=for-the-badge&logo=beaverbuilder&logoColor=white) ![Brizy](https://img.shields.io/badge/Brizy-%234A90E2.svg?style=for-the-badge&logo=brizy&logoColor=white) ![Oxygen Builder](https://img.shields.io/badge/Oxygen%20Builder-%236D4A99.svg?style=for-the-badge&logo=oxygenbuilder&logoColor=white) ![WooCommerce](https://img.shields.io/badge/WooCommerce-%235F259F.svg?style=for-the-badge&logo=woocommerce&logoColor=white) ![Shopify](https://img.shields.io/badge/Shopify-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white) ![Shopify Plus](https://img.shields.io/badge/Shopify%20Plus-%237AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhammadawais05&theme=dark&hide_border=false)<br/>
