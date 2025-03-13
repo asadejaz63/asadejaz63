@@ -1,5 +1,7 @@
 # 💫 About Me:
-Software engineer with a strong foundation in programming and problem-solving. Proficient in programming languages and development tools. 4 years of experience in full-stack development (MERN, ROR), mobile development (React Native), and agile methodologies. Proven ability to design and implement scalable, efficient, and maintainable software solutions. Passionate about staying up-to-date with emerging technologies and collaborating with cross-functional teams to deliver cutting-edge products.
+I am a results-driven No-Code/Low-Code Developer specializing in WordPress, WooCommerce, Shopify, and leading page builders like Elementor, WPBakery, and Divi. With 5 years of experience, I excel in crafting high-performance websites, seamless e-commerce solutions, and visually stunning designs using Envato Elements and other premium resources.My expertise lies in building scalable, efficient, and user-friendly web solutions while leveraging no-code and low-code platforms to accelerate development. Passionate about innovation, I stay ahead of industry trends to deliver cutting-edge websites that drive business growth.
+
+Let’s build something amazing together!
 <br>
 
 
