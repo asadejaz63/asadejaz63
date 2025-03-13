@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a results-driven <strog>No-Code/Low-Code Developer specializing in WordPress, WooCommerce, Shopify, and leading page builders like Elementor, WPBakery, and Divi</strong>. With 5 years of experience, I excel in crafting high-performance websites, seamless e-commerce solutions, and visually stunning designs using Envato Elements and other premium resources. My expertise lies in building scalable, efficient, and user-friendly web solutions while leveraging no-code and low-code platforms to accelerate development. Passionate about innovation, I stay ahead of industry trends to deliver cutting-edge websites that drive business growth.
+I am a results-driven <bold>No-Code/Low-Code Developer specializing in WordPress, WooCommerce, Shopify, and leading page builders like Elementor, WPBakery, and Divi</bold>. With 5 years of experience, I excel in crafting high-performance websites, seamless e-commerce solutions, and visually stunning designs using Envato Elements and other premium resources. My expertise lies in building scalable, efficient, and user-friendly web solutions while leveraging no-code and low-code platforms to accelerate development. Passionate about innovation, I stay ahead of industry trends to deliver cutting-edge websites that drive business growth.
 
 Let’s build something amazing together!
 <br>
